@@ -16,4 +16,4 @@ If you're interested in contributing to our open source projects, check out our 
 
 ---
 
-*Building the future of game show technology* 🎮📺
+*Building the future of game show technology* 🎯📺
